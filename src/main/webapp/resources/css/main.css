@@ -1,0 +1,10 @@
+table {
+    width: 70%;
+}
+th {
+	background: #f2f2f2;
+} 
+td {
+	border: 1px solid black;
+    width: 50%;
+}
